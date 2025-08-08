@@ -1,6 +1,7 @@
 # alphabet-cypher
 
-A Clojure library designed to ... well, that part is up to you.
+Implementation of the clojure kata alphabet cypher problem.
+https://github.com/gnandretta/wonderland-clojure-katas/tree/master/alphabet-cipher
 
 ## Usage
 
